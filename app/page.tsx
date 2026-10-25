@@ -300,7 +300,7 @@ export default function Home() {
       {/* Footer */}
 <footer className="border-t border-gray-800 px-8 py-6 text-center text-sm text-gray-400">
   <p>
-    ©️ {new Date().getFullYear()} Prashant. Built with Next.js and Tailwind CSS.
+  ©️ 2026 Prashant. Built with Next.js and Tailwind CSS.
   </p>
 </footer>
     </main>
