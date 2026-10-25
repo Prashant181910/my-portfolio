@@ -298,9 +298,11 @@ export default function Home() {
 </AnimatedSection>
 
       {/* Footer */}
-      <footer className="border-t border-gray-800 px-8 py-6 text-center text-sm text-gray-500">
-        ©️ {new Date().getFullYear()} Prashant. Built with Next.js.
-      </footer>
+<footer className="border-t border-gray-800 px-8 py-6 text-center text-sm text-gray-400">
+  <p>
+    ©️ {new Date().getFullYear()} Prashant. Built with Next.js and Tailwind CSS.
+  </p>
+</footer>
     </main>
   );
 }
